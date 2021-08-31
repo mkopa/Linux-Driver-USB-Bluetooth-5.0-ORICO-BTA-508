@@ -1,5 +1,7 @@
-# Linux-Driver-USB-Bluetooth-5.0-ORICO-BTA-508
-Linux Driver for USB Bluetooth 5.0 ORICO BTA-508 Adapter
+<div align="center">
+	<img src="ORICO-BTA-508.png" width="300">
+	<h1>Linux Driver for USB Bluetooth 5.0 ORICO BTA-508 Adapter</h1>
+</div>
 
 ```
 cd ~/Downloads/ && wget https://mpow.s3-us-west-1.amazonaws.com/mpow_BH519A_driver+for+Linux.7z
